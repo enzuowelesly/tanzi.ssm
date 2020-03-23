@@ -1,0 +1,5 @@
+com/tanzi/ssm/controller/OrderController.class
+com/tanzi/ssm/controller/RoleController.class
+com/tanzi/ssm/controller/UserController.class
+com/tanzi/ssm/controller/ProductController.class
+com/tanzi/ssm/controller/PermissionController.class
